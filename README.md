@@ -27,4 +27,13 @@ What things you need to install the software and how to install them:
    conda install -c scikit-learn
    conda install -c anaconda numpy
    conda install -c anaconda scipy
-   ```   
+   ```
+## Final Model Accuracy and Loss
+Loss function used in CrossEntropy Loss and the final loss comes out to be around 2.4
+and accuracy is about 74 percent.
+![IMG-20231217-WA0003](https://github.com/Tanishq15/Anti-Depression-Chatbot/assets/75112914/436524e6-b6b3-4a80-beac-16dd314af6c8)
+## Working Chatbot
+Final basic GUI of the chatbot looks like this  
+![IMG-20231218-WA0003](https://github.com/Tanishq15/Anti-Depression-Chatbot/assets/75112914/42f23d01-419e-40b6-b1cf-a2870a763013)
+
+
